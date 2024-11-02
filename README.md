@@ -1,0 +1,2 @@
+# telegram_bot_text_in_image
+Обработка фотографий
